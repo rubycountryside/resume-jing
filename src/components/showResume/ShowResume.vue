@@ -40,7 +40,7 @@
                     <div class="blog">
                         <div class="title-name">BLOG LINK</div>
                         <div class="link personal-blog"><i class="icon-flag icon-1x"></i>技术博文 <a target="_blank" href="https://rubycountryside.github.io/">{{resumeData.blogLink.blog}}</a></div>
-                        <div class="link github"><i class="icon-github-alt icon-1x"></i>Github: <a target="_blank" href="https://github.com/rubycountryside">{{resumeData.blogLink.github}}</a></div>
+                        <div class="link github"><i class="icon-github-alt icon-1x"></i>Github: <a target="_blank" href="https://github.com/rubycountryside/resume-jing">{{resumeData.blogLink.github}}</a></div>
                     </div>
                 </div>
                 
