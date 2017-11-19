@@ -1,0 +1,83 @@
+{
+  "head":{
+    "name":"蔚静",
+    "intention":"前端开发工程师",
+    "tel":"15801527471",
+    "email":"2854793187@qq.com",
+    "address":"北京市海淀区后厂村路冬晴园",
+    "sex":"女",
+    "school":"太原理工大学",
+    "graduation":"本科",
+    "graduationTime":"2013-9-1 至 2017-7-1",
+    "major":"软件工程",
+    "honor":"获学校三好学生称号",
+    "interest":"骑行、看书、编程、音乐、画画",
+    "speciality":"js、css3、html5、jquery、bootstrap、vue",
+    "specialityPer":"90、80、70、80、70、85"
+
+  },
+  "blogLink":{
+    "github":"https://github.com/rubycountryside",
+    "blog":"https://rubycountryside.github.io/"
+  },
+  "workExperience":{
+    "time":"2017.7-2017.11 ",
+    "experience":[
+      {
+        "name":"中软国际",
+        "time":"2017.7-2017.11",
+        "describe":[
+          
+        ]
+      }
+    ]
+  },
+  "projectExperience":{
+    "time":"",
+    "experience":[
+      {
+        "name":"基于vue仿网易新闻项目",
+        "time":" 2017.9-2017.10",
+        "describe":[
+          "技术栈:vue-cli脚手架,vue,mint-ui组件库,vue-resource,vue-router路由机制,es6,webpack,组件化思想,lazyload懒加载",
+          "描述：提供本地json数据文件模拟网易新闻系统",
+          "亮点：实现数据流分页加载显示和懒加载模式；图片自适应；模块分装和按需加载 ；导航栏横向滚动；组件化。",
+          "项目链接: https://github.com/rubycountryside"
+        ]
+      },
+      {
+        "name":"基于Vue个人简历",
+        "time":"2017.11-2017.1",
+        "describe":[
+          "技术栈：css3，vue-cli，vue，html2canvas",
+          "1. html2canvas可以通过获取HTML的某个元素，然后生成Canvas，能让用户保存为图片。2. 利用setInterval让使页面每隔一段时间自动获取并加载json数据，页面动态加载显示"
+        ]
+      }
+    ]
+  },
+  "skill":[
+    {
+      "type":"基础知识",
+      "describe":[
+        "HTML5：canvas,storage存储，websocket 多线程CSS3: 了解响应式布局，伸缩布局，flex 布局并能用到实际项目中;",
+        "Javascript: 了解 javascript 原型、继承、闭包，作用域链。",
+        "熟悉ajax，了解同源政策掌握如何进行跨域请求和处理",
+        "熟悉git命令,掌握git分布式版本控制系统"
+      ]
+    },
+    {
+      "type":"框架",
+      "describe":[
+        "熟悉jquery,bootstrap等js库，了解node",
+        " vue-cli,vue,vue-router,vue-resource",
+        "了解charts,eheighcharts，并应用过一些小项目"
+      ]
+    }
+  ],
+  "selfAssessment":[
+    "良好的团队合作能力，学习方面有较强的求知能力",
+    "善于总结和思考，热衷于新技术的学习",
+    "自信，乐观，抗压能力强"
+  ]
+
+}
